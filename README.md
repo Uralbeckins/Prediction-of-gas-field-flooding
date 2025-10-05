@@ -24,12 +24,12 @@
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - ARIMA, SARIMA, ElasticNet
-- Jupyter Notebook
+- Walk-forward validation
 
 ## Структура проекта
 
-├── notebook.ipynb       # Основной ноутбук проекта
-├── /images              # Визуализации (PNG)
+├── Cotebook.ipynb       # Основной ноутбук проекта
+├── Charts               # Графики давления, добычи и т.п.
 ├── README.md            # Описание проекта
 
 ## Результаты
